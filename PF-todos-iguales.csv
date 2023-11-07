@@ -1,25 +1,4 @@
-Marca temporal,Dirección de correo electrónico,Qué ingeniería estudias?,Que año estás cursando?,Estás satisfecho con tu carrera?,¿Te interesa la modelización y simulación de procesos químicos?,¿Te gusta diseñar objetos mecánicos desde cero? ,¿Te interesa la electrónica y los circuitos eléctricos? ,¿Te atrae el proceso de extracción y refinación de metales?,¿Sos capaz de resolver problemas aplicando soluciones algorítmicas? ,¿Te interesa diseñar sistemas electrónicos para el manejo de corrientes eléctricas? ,Aspiro a diseñar y planificar procesos para la obtención de bienes industrializados ,¿Te interesa la investigación y el desarrollo de nuevos materiales de construcción? ,¿Te atrae la ingeniería estructural? ,Quisiera comprender cómo es el desempeño de un dispositivo electrónico y como afecta a circuitos y sistemas. ,Te interesaría participar en la producción de nuevos sistemas inteligentes ,¿Te interesa la caracterización y propiedades de los materiales metálicos?,¿Te imaginas trabajando en un laboratorio de investigación?,"
-¿Te gusta desmontar objetos mecánicos para ver cómo funcionan? ",¿Te interesa diseñar sistemas que ayuden a las empresas a optimizar su inventario?,¿Te gustaría trabajar en el diseño o la construcción de sistemas de automatización industrial?,"
-¿Te interesa la aplicación de los metales en la industria aeroespacial o automotriz? ","
-Me veo diseñando e implementando sistemas, equipos y/o componentes de piezas electrónicas. ",¿Te interesa diseñar y construir instalaciones industriales?,"
-¿Te interesa la ingeniería geotécnica? ","
-¿Te gusta el proceso de diseño, desarrollo e implementación de sistemas informáticos? ","
-¿Te interesa la aplicación de la electricidad en la medicina  o industria automotriz? ",¿Te gusta diseñar procesos para convertir materias primas en productos útiles?,"
- ¿Te gusta trabajar con herramientas mecánicas? ","
- ¿Te gusta diseñar sistemas térmicos o refrigerantes? ",¿Te interesa la metalurgia adaptiva? ,"
-Quisiera diseñar dispositivos de Radio Frecuencia que conforman un equipo de comunicaciones ","¿Te gusta diseñar y conducir planes de capacitación de RRHH para empresas que producen bienes y servicios?
-","
-¿Te interesa la ingeniería ambiental? ",¿Te ves involucrado en la aplicación de la química en la medicina? ,"
-¿Te ves trabajando en un entorno de desarrollo de software? ","
-¿Te gusta trabajar con herramientas y equipos eléctricos? ","
-¿Te ves trabajando en remoto (Home Office)? ","
-Me gustaría crear dispositivos para Domótica ","
-¿Te interesa la construcción de edificios y puentes? ","
-¿Te interesa la optimización de procesos y operaciones? ","
-¿Te imaginas trabajando en una planta metalúrgica? ","
-¿Te gusta diseñar sistemas de transmisión mecánica? ","
-Te interesa la aplicación de la química en la energía ","
-¿Trabajarías en una planta de energía? "
+Marca temporal,email,ingenieria,cursado,satisfaccion,P1_Q,P1_MC,P1_EA,P1_MT,P1_S,P1_EO,P1_I,P1_C,P2_C,P2_EO,P2_S,P2_MT,P2_Q,P2_MC,P2_I,P2_EA,P3_MT,P3_EO,P3_I,P3_C,P3_S,P3_EA,P3_Q,P3_MC,P4_MC,P4_MT,P4_EO,P4_I,P4_C,P4_Q,P4_S,P4_EA,P5_S,P5_EO,P5_C,P5_I,P5_MT,P5_MC,P5_Q,P5_EA
 27/10/2023 12:24:48,aliagustin98@gmail.com,Sistemas,5to,Sí,No,No,No,No,Si,No,No,No,No,No,Si,No,Si,No,No,No,No,Más o menos,No,No,Si,Más o menos,No,Más o menos,No,No,Más o menos,No,Más o menos,No,Si,Si,Si,Si,No,No,No,No,Más o menos,No
 27/10/2023 12:49:04,tomigarcia19@gmail.com,Sistemas,5to,Sí,No,No,No,No,Si,No,No,No,No,Más o menos,Si,No,No,No,Más o menos,Más o menos,No,No,No,No,Si,No,No,No,No,No,No,No,No,No,Si,No,Si,Más o menos,No,No,No,No,No,No
 27/10/2023 13:45:58,mauroemir08@gmail.com,Industrial,Me quedan finales unicamente,Sí,No,No,No,No,Si,No,Si,No,No,No,No,Si,No,No,Si,Si,No,No,No,No,No,No,Si,No,No,Si,No,Si,No,No,No,Si,Si,No,No,Si,Si,No,No,No
